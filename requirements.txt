@@ -1,0 +1,7 @@
+# Runtime: Python standard library only.
+# External system tools required for real builds:
+#   pyinstaller
+#   strace
+# Optional:
+#   bubblewrap (bwrap) for --sandbox
+pytest>=7
